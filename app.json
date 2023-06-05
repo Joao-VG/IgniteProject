@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "IgniteProject",
+    "slug": "IgniteProject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
